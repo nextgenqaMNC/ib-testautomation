@@ -1,0 +1,13 @@
+{
+  "name": "Smoke Testing Suite",
+  "status": "pass",
+  "tests": [
+    "FBSmokeTest"
+  ],
+  "total": 1,
+  "pass": 1,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1577616617904,
+  "endTime": 1577616662652
+}
