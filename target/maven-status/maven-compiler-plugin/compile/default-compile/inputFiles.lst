@@ -1,4 +1,6 @@
-C:\Projects\NextGen-Framework\ib-testautomation\src\main\java\com\xxx\ib\utils\ExcelUtil.java
-C:\Projects\NextGen-Framework\ib-testautomation\src\main\java\com\xxx\ib\actions\IB_Actions.java
-C:\Projects\NextGen-Framework\ib-testautomation\src\main\java\com\xxx\ib\utils\CommonUtils.java
-C:\Projects\NextGen-Framework\ib-testautomation\src\main\java\com\xxx\ib\utils\DateUtil.java
+C:\Projects\NextGen-Framework\ib-testautomation\src\main\java\com\mnc\ib\utils\CommonUtils.java
+C:\Projects\NextGen-Framework\ib-testautomation\src\main\java\com\mnc\ib\utils\PageUtils.java
+C:\Projects\NextGen-Framework\ib-testautomation\src\main\java\com\mnc\ib\BaseTest\BaseTestCase.java
+C:\Projects\NextGen-Framework\ib-testautomation\src\main\java\com\mnc\ib\actions\IB_Actions.java
+C:\Projects\NextGen-Framework\ib-testautomation\src\main\java\com\mnc\ib\utils\DateUtil.java
+C:\Projects\NextGen-Framework\ib-testautomation\src\main\java\com\mnc\ib\utils\ExcelUtil.java

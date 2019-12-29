@@ -2,6 +2,11 @@
   "reports": [
     {
       "name": "Smoke Testing Suite",
+      "dir": "test-results/Sun29Dec19_0627PM",
+      "startTime": 1577624228523
+    },
+    {
+      "name": "Smoke Testing Suite",
       "dir": "test-results/Sun29Dec19_0501PM",
       "startTime": 1577619063444
     },

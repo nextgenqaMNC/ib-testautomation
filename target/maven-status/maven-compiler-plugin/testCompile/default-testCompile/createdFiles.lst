@@ -1,3 +1,3 @@
-com\xxx\ib\prj\tests\SampleTest.class
-com\xxx\ib\prj\pages\LoginPage.class
-com\xxx\ib\prj\pages\SamplePage.class
+com\mnc\ib\tests\FbLoginTest.class
+com\mnc\ib\pages\FbHomePage.class
+com\mnc\ib\pages\FbLoginPage.class
