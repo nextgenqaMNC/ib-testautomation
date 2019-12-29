@@ -2,7 +2,8 @@
 *.class
 test-output
 test-results
-
+.settings
+.metadata
 
 # Log file
 *.log
