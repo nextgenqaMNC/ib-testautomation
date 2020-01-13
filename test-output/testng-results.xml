@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="info"><span class="info-label">I </span>started launching application</div><div  class="info"><span class="info-label">I </span>Logging into the application successful <a href="img/FbLogin_o10j2drc1mx064028.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Title Name, Expected Value - Paramesh, Actual Value - Paramesh <a href="img/FbLogin_nt3zjs4ockxe64029.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Home Link, Expected Value - Home, Actual Value - Home <a href="img/FbLogin_17u46cy9o07ei64030.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Create Link, Expected Value - Create, Actual Value - Create <a href="img/FbLogin_ti5m86ps4tpi64031.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Smoke Testing Suite" duration-ms="66154" started-at="2020-01-10T17:27:10Z" finished-at="2020-01-10T17:28:16Z">
+    <groups>
+    </groups>
+    <test name="FB Smoke Test" duration-ms="66154" started-at="2020-01-10T17:27:10Z" finished-at="2020-01-10T17:28:16Z">
+      <class name="com.mnc.ib.tests.FbLoginTest">
+        <test-method status="PASS" signature="setupSuit(org.testng.ITestContext)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="setupSuit" is-config="true" duration-ms="50" started-at="2020-01-10T22:57:10Z" finished-at="2020-01-10T22:57:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@80b026]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuit -->
+        <test-method status="PASS" signature="beforSuite()[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="beforSuite" is-config="true" duration-ms="10" started-at="2020-01-10T22:57:10Z" depends-on-methods="com.qmetry.qaf.automation.testng.TestNGTestCase.setupSuit" finished-at="2020-01-10T22:57:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforSuite -->
+        <test-method status="PASS" signature="setupTest(org.testng.ITestContext)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="setupTest" is-config="true" duration-ms="0" started-at="2020-01-10T22:57:10Z" finished-at="2020-01-10T22:57:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@80b026]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="beforeClass" is-config="true" duration-ms="66" started-at="2020-01-10T22:57:10Z" finished-at="2020-01-10T22:57:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="setup" is-config="true" duration-ms="0" started-at="2020-01-10T22:57:10Z" finished-at="2020-01-10T22:57:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@80b026]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="setupMethod" is-config="true" duration-ms="0" started-at="2020-01-10T22:57:11Z" finished-at="2020-01-10T22:57:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mnc.ib.tests.FbLoginTest.fbLogin(java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@80b026]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-01-10T22:57:11Z" finished-at="2020-01-10T22:57:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="fbLogin(java.lang.String, java.lang.String)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="fbLogin" duration-ms="65821" started-at="2020-01-10T22:57:11Z" data-provider="positiveFlow" finished-at="2020-01-10T22:58:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Smoke Test 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="info"><span class="info-label">I </span>started launching application</div><div  class="info"><span class="info-label">I </span>Logging into the application successful <a href="img/FbLogin_o10j2drc1mx064028.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Title Name, Expected Value - Paramesh, Actual Value - Paramesh <a href="img/FbLogin_nt3zjs4ockxe64029.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Home Link, Expected Value - Home, Actual Value - Home <a href="img/FbLogin_17u46cy9o07ei64030.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Create Link, Expected Value - Create, Actual Value - Create <a href="img/FbLogin_ti5m86ps4tpi64031.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fbLogin -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="aftermethod" is-config="true" duration-ms="0" started-at="2020-01-10T22:58:16Z" finished-at="2020-01-10T22:58:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fbLogin status=SUCCESS method=FbLoginTest.fbLogin(java.lang.String, java.lang.String)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2] output=<div style="display:block;margin-left:10px;"><div  class="info"><span class="info-label">I </span>started launching application</div><div  class="info"><span class="info-label">I </span>Logging into the application successful <a href="img/FbLogin_o10j2drc1mx064028.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Title Name, Expected Value - Paramesh, Actual Value - Paramesh <a href="img/FbLogin_nt3zjs4ockxe64029.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Home Link, Expected Value - Home, Actual Value - Home <a href="img/FbLogin_17u46cy9o07ei64030.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Create Link, Expected Value - Create, Actual Value - Create <a href="img/FbLogin_ti5m86ps4tpi64031.png" target="_blank">[View Screenshot]</a> </div></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-01-10T22:58:16Z" finished-at="2020-01-10T22:58:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@80b026]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=fbLogin status=SUCCESS method=FbLoginTest.fbLogin(java.lang.String, java.lang.String)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2] output=<div style="display:block;margin-left:10px;"><div  class="info"><span class="info-label">I </span>started launching application</div><div  class="info"><span class="info-label">I </span>Logging into the application successful <a href="img/FbLogin_o10j2drc1mx064028.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Title Name, Expected Value - Paramesh, Actual Value - Paramesh <a href="img/FbLogin_nt3zjs4ockxe64029.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Home Link, Expected Value - Home, Actual Value - Home <a href="img/FbLogin_17u46cy9o07ei64030.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verification was successful - Verification of the field - Fb user Create Link, Expected Value - Create, Actual Value - Create <a href="img/FbLogin_ti5m86ps4tpi64031.png" target="_blank">[View Screenshot]</a> </div></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-01-10T22:58:16Z" finished-at="2020-01-10T22:58:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@80b026]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="afterTest" is-config="true" duration-ms="50" started-at="2020-01-10T22:58:16Z" finished-at="2020-01-10T22:58:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@80b026]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="sendEmail()[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="sendEmail" is-config="true" duration-ms="3135" started-at="2020-01-10T22:58:17Z" finished-at="2020-01-10T22:58:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sendEmail -->
+        <test-method status="PASS" signature="afterSuit(org.testng.ITestContext)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@8eb7f2]" name="afterSuit" is-config="true" duration-ms="142" started-at="2020-01-10T22:58:20Z" depends-on-methods="com.mnc.ib.BaseTest.BaseTestCase.sendEmail" finished-at="2020-01-10T22:58:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@80b026]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- com.mnc.ib.tests.FbLoginTest -->
+    </test> <!-- FB Smoke Test -->
+  </suite> <!-- Smoke Testing Suite -->
+</testng-results>

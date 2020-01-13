@@ -1,0 +1,104 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "BeforSuite",
+        "name": "beforSuite",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1577985240908,
+      "duration": 1,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "BeforeClass",
+        "name": "beforeClass",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1577985240960,
+      "duration": 61,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "BeforeMethod",
+        "name": "beforeMethod",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1577985241130,
+      "duration": 0,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [
+        "TC_001",
+        "Smoke Test 1"
+      ],
+      "metaData": {
+        "dataProvider": "positiveFlow",
+        "groups": [],
+        "name": "fbLogin",
+        "resultFileName": "FbLogin",
+        "sign": "FbLoginTest.fbLogin(java.lang.String, java.lang.String)[pri:0, instance:com.mnc.ib.tests.FbLoginTest@1a7005d]"
+      },
+      "dependsOn": [],
+      "startTime": 1577985241136,
+      "duration": 37074,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "Aftermethod",
+        "name": "aftermethod",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1577985278220,
+      "duration": 10,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "SendEmail",
+        "name": "sendEmail",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1577985278672,
+      "duration": 2165,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "total": 1,
+  "pass": 1,
+  "fail": 0,
+  "skip": 0,
+  "classes": [
+    "com.xxx.ib.prj.tests.FbLoginTest"
+  ],
+  "envInfo": {
+    "browser-desired-capabilities": {
+      "acceptInsecureCerts": true,
+      "browserName": "firefox",
+      "cssSelectorsEnabled": true,
+      "javascriptEnabled": true,
+      "platform": "ANY",
+      "takesScreenshot": true,
+      "version": ""
+    },
+    "browser-actual-capabilities": {
+      "moz:profile": "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileqWDXb0",
+      "rotatable": "false",
+      "moz:geckodriverVersion": "0.26.0",
+      "timeouts": "{implicit=0, pageLoad=300000, script=30000}",
+      "pageLoadStrategy": "normal",
+      "unhandledPromptBehavior": "dismiss and notify",
+      "strictFileInteractability": "false",
+      "moz:headless": "false",
+      "platform": "WINDOWS",
+      "moz:accessibilityChecks": "false",
+      "moz:useNonSpecCompliantPointerOrigin": "false",
+      "acceptInsecureCerts": "true",
+      "browserVersion": "71.0",
+      "moz:shutdownTimeout": "60000",
+      "platformVersion": "6.1",
+      "moz:processID": "4388",
+      "browserName": "firefox",
+      "javascriptEnabled": "true",
+      "moz:buildID": "20191202093317",
+      "platformName": "WINDOWS",
+      "setWindowRect": "true",
+      "moz:webdriverClick": "true"
+    },
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "14",
+      "qaf-Version": "2.1",
+      "qaf-Build-Time": "01-Jan-2019 19:18:14"
+    },
+    "run-parameters": {
+      "baseurl": "http://www.facebook.com/",
+      "resources": "resources/SIT"
+    },
+    "execution-env-info": {
+      "java.arch": "32",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_191",
+      "os.arch": "x86",
+      "host": "HOME-PC",
+      "os.name": "Windows 7",
+      "user.name": "HOME",
+      "os.version": "6.1"
+    }
+  },
+  "startTime": 1577287563331,
+  "endTime": 1577287671804
+}

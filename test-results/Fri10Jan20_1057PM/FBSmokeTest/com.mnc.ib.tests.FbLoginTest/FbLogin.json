@@ -1,0 +1,205 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "deleteAllCookies",
+      "args": [
+        "{}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 90
+    },
+    {
+      "commandName": "get",
+      "args": [
+        "{url=http://www.facebook.com/}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 15283
+    },
+    {
+      "commandName": "maximizeCurrentWindow",
+      "args": [
+        "{}"
+      ],
+      "result": "{height=744, width=1376, x=-8, y=-8}",
+      "subLogs": [],
+      "duration": 1381
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//input[@id='email'], using=xpath}"
+      ],
+      "result": "id: f2beefc0-fdc8-425d-9156-af321c325483",
+      "subLogs": [],
+      "duration": 380
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.xpath: //input[@id='email']",
+        "{\"value\":[\"paramesh.chilukuri@gamil.com\"],\"id\":\"f2beefc0-fdc8-425d-9156-af321c325483\"}"
+      ],
+      "result": "sendKeysToElement:null",
+      "subLogs": [],
+      "duration": 792
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//input[@id='pass'], using=xpath}"
+      ],
+      "result": "id: 9c2c224e-dc28-4376-9504-3104e78baf1a",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.xpath: //input[@id='pass']",
+        "{\"value\":[\"pamy@Ebix\"],\"id\":\"9c2c224e-dc28-4376-9504-3104e78baf1a\"}"
+      ],
+      "result": "sendKeysToElement:null",
+      "subLogs": [],
+      "duration": 238
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//input[@value='Log In'], using=xpath}"
+      ],
+      "result": "id: b4ca5bb9-874b-4aa1-a1f8-76e735d13984",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //input[@value='Log In']",
+        "{\"id\":\"b4ca5bb9-874b-4aa1-a1f8-76e735d13984\"}"
+      ],
+      "result": "clickElement:null",
+      "subLogs": [],
+      "duration": 38782
+    },
+    {
+      "commandName": "getAlertText",
+      "args": [
+        "{}"
+      ],
+      "result": "no such alert\n  (Session info: chrome=79.0.3945.117)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'HOME-PC', ip: '192.168.0.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_191'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\\Users\\HOME\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50168}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 668ddf9711d3859ff2cebb8377e725a5",
+      "subLogs": [],
+      "duration": 350
+    },
+    {
+      "commandName": "getAlertText",
+      "args": [
+        "{}"
+      ],
+      "result": "no such alert\n  (Session info: chrome=79.0.3945.117)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'HOME-PC', ip: '192.168.0.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_191'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\\Users\\HOME\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50168}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 668ddf9711d3859ff2cebb8377e725a5",
+      "subLogs": [],
+      "duration": 10
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@id='u_0_a']/div[1]/div[1]/div/a/span/span, using=xpath}"
+      ],
+      "result": "id: 36f8eaf0-413a-457d-ad11-77c837acbe02",
+      "subLogs": [],
+      "duration": 30
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@id='u_0_a']/div[1]/div[1]/div/a/span/span",
+        "{\"id\":\"36f8eaf0-413a-457d-ad11-77c837acbe02\"}"
+      ],
+      "result": "getElementText:Paramesh",
+      "subLogs": [],
+      "duration": 44
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[text()='Home'], using=xpath}"
+      ],
+      "result": "id: ec5cd1f8-bce5-4cee-9e44-dc35d45cfdf4",
+      "subLogs": [],
+      "duration": 30
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //a[text()='Home']",
+        "{\"id\":\"ec5cd1f8-bce5-4cee-9e44-dc35d45cfdf4\"}"
+      ],
+      "result": "getElementText:Home",
+      "subLogs": [],
+      "duration": 22
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[text()='Create'], using=xpath}"
+      ],
+      "result": "id: f2c2d69d-8980-4498-a097-6f65048eb562",
+      "subLogs": [],
+      "duration": 30
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //a[text()='Create']",
+        "{\"id\":\"f2c2d69d-8980-4498-a097-6f65048eb562\"}"
+      ],
+      "result": "getElementText:Create",
+      "subLogs": [],
+      "duration": 10
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "started launching application",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Logging into the application successful",
+      "type": "Info",
+      "screenshot": "img/FbLogin_o10j2drc1mx064028.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Verification was successful - Verification of the field - Fb user Title Name, Expected Value - Paramesh, Actual Value - Paramesh",
+      "type": "Pass",
+      "screenshot": "img/FbLogin_nt3zjs4ockxe64029.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Verification was successful - Verification of the field - Fb user Home Link, Expected Value - Home, Actual Value - Home",
+      "type": "Pass",
+      "screenshot": "img/FbLogin_17u46cy9o07ei64030.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Verification was successful - Verification of the field - Fb user Create Link, Expected Value - Create, Actual Value - Create",
+      "type": "Pass",
+      "screenshot": "img/FbLogin_ti5m86ps4tpi64031.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

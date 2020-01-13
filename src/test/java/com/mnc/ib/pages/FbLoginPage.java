@@ -55,8 +55,8 @@ public class FbLoginPage extends WebDriverBaseTestPage<WebDriverTestPage> {
 		loginBtn.click();
 		PageUtils.waitForAjaxToComplete(driver);
 		takeScreenshot("Login");
-		Reporter.log("testing to just log");
-		Reporter.logWithScreenShot("testing to just log with screenshot");
+		//Reporter.log("testing to just log");
+		//Reporter.logWithScreenShot("testing to just log with screenshot");
 	}
 
 	public void takeScreenshot(String name) {

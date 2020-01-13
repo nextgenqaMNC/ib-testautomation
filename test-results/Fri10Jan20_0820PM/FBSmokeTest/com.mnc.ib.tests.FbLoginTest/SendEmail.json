@@ -1,0 +1,14 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "switchToFrame",
+      "args": [
+        "{id=null}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 11
+    }
+  ],
+  "checkPoints": []
+}

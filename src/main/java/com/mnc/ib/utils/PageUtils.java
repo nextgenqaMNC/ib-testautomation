@@ -134,7 +134,8 @@ public class PageUtils extends BaseTestCase {
 					}
 					Thread.sleep(100);
 				} catch (Exception e) {
-					e.printStackTrace();
+					//e.printStackTrace();
+					//System.out.println("waiting for page load to overcome synchronization issues");
 				}
 			}
 		}

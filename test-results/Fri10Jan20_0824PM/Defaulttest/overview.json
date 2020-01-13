@@ -1,0 +1,11 @@
+{
+  "total": 1,
+  "pass": 0,
+  "fail": 0,
+  "skip": 0,
+  "classes": [
+    "com.mnc.ib.tests.FbLoginTest"
+  ],
+  "startTime": 1578668054205,
+  "endTime": 1578668054355
+}
